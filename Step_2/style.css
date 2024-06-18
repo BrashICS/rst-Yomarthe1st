@@ -1,8 +1,8 @@
 body {
   font-family: Arial, sans-serif;
-  display: flex;                /* Added */
-  justify-content: center;      /* Added */
-  align-items: center;          /* Added */
+  display: flex;               
+  justify-content: center;
+  align-items: center;
   height: 100vh;
   background-color: #f4f4f4;
   margin: 0;
@@ -10,10 +10,10 @@ body {
 
 #home-container, #game-container {
   text-align: center;
-  display: flex;                /* Added */
-  flex-direction: column;       /* Added */
-  justify-content: center;      /* Added */
-  align-items: center;          /* Added */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 #home-container h1, #game-container h1 {
